@@ -1,0 +1,517 @@
+fileFormatVersion: 2
+guid: a04a7bfa8ab6ab74f8ec3f5b6b3ac4fe
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Camila
+    21300002: Stefani
+    21300004: Do
+    21300006: Prado
+    21300008: Guilherme
+    21300010: Gava
+    21300012: Barreiros
+    21300014: Joao
+    21300016: Pedro
+    21300018: Lazarini
+    21300020: Luiz
+    21300022: Thiago
+    21300024: Castro
+    21300026: Da
+    21300028: Rocha
+    21300030: CAmila
+    21300032: Stefani
+    21300034: do
+    21300036: Prado
+    21300038: Guilherme
+    21300040: Gava
+    21300042: Barreiros
+    21300044: Joao
+    21300046: Pedro
+    21300048: Lazarini
+    21300050: Luiz
+    21300052: Thiago
+    21300054: Castro
+    21300056: da
+    21300058: Rocha
+    21300060: Credits_15
+    21300062: Credits_16
+    21300064: Credits_17
+    21300066: Credits_18
+    21300068: Credits_19
+    21300070: Credits_20
+    21300072: Credits_21
+    21300074: Credits_22
+    21300076: Credits_23
+    21300078: Credits_24
+    21300080: Credits_25
+    21300082: Credits_26
+    21300084: Credits_27
+    21300086: Credits_28
+    21300088: Credits_29
+    21300090: Credits_30
+    21300092: Credits_31
+    21300094: Credits_32
+    21300096: Credits_33
+    21300098: Credits_34
+    21300100: Credits_35
+    21300102: Credits_36
+    21300104: Credits_37
+    21300106: Credits_38
+    21300108: Credits_39
+    21300110: Credits_40
+    21300112: Credits_41
+    21300114: Credits_42
+    21300116: Credits_43
+    21300118: Credits_44
+    21300120: Credits_45
+    21300122: Credits_46
+    21300124: Credits_47
+    21300126: Credits_48
+    21300128: Credits_49
+    21300130: Credits_50
+    21300132: Credits_51
+    21300134: Credits_52
+    21300136: Credits_53
+    21300138: Credits_54
+    21300140: Credits_55
+    21300142: Credits_56
+    21300144: Credits_57
+    21300146: Credits_58
+    21300148: Credits_59
+    21300150: Credits_60
+    21300152: Credits_61
+    21300154: Credits_62
+    21300156: Credits_63
+    21300158: Credits_64
+    21300160: Credits_65
+    21300162: Credits_66
+    21300164: Credits_67
+    21300166: Credits_68
+    21300168: Credits_69
+    21300170: Credits_70
+    21300172: Credits_71
+    21300174: Credits_72
+    21300176: Credits_73
+    21300178: Credits_74
+    21300180: Credits_75
+    21300182: Credits_76
+    21300184: Credits_77
+    21300186: Credits_78
+    21300188: Credits_79
+    21300190: Credits_80
+    21300192: Credits_81
+    21300194: Credits_82
+    21300196: Credits_83
+    21300198: Credits_84
+    21300200: Credits_85
+    21300202: Credits_86
+    21300204: Credits_87
+    21300206: Credits_88
+    21300208: Credits_89
+    21300210: Credits_90
+    21300212: Credits_91
+    21300214: Credits_92
+    21300216: Credits_93
+    21300218: Credits_94
+    21300220: Credits_95
+    21300222: Credits_96
+    21300224: Credits_97
+    21300226: Credits_98
+    21300228: Credits_99
+    21300230: Credits_100
+    21300232: Credits_101
+    21300234: Credits_102
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CAmila
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 507
+        width: 211
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfe26f78296a8e54396b2b1f134c0135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Stefani
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 505
+        width: 242
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 512a9174efe053e42a7e5b7612b201fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: do
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 506
+        width: 69
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1908afa81e9fc3c48bd71e33af46bf08
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Prado
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 504
+        width: 174
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b5d525c9d69c24da97cb2ad66579ae
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Guilherme
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 435
+        width: 320
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ac1b099abb6ff448015cecc6458a90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gava
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 432
+        width: 147
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87bae72710164dc4785e1cf68eef521c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Barreiros
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 431
+        width: 321
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f406ba55e14d1fd44a13fce4d2536a79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Joao
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 358
+        width: 146
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce4902f0596e3840af2a5147523da1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pedro
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 357
+        width: 181
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 389dd4891c06e5648911061117fdcf24
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lazarini
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 289
+        width: 274
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc16daac3df4d544b2b7aef32a3aacb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Luiz
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 209
+        width: 143
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 432d2b57d12f97e4b9d849d807b05124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Thiago
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 208
+        width: 212
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2117152b658f58144afaf89077cf3ddd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Castro
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 207
+        width: 211
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18156ee962d487f46955f89d6320bfdd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: da
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 208
+        width: 70
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1a811e2239ad904a967b6985f1b9c32
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Rocha
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 207
+        width: 174
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8673f0227bd11694197eb73d9fe877ec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: d720f5957d3f065448169c832ea05df4
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
